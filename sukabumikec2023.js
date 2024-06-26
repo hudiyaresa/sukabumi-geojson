@@ -197,7 +197,7 @@ var SukabumiKec = {"type":"FeatureCollection","features":[
 [106.934516,-6.947491],
 [106.934824,-6.944224],
 [106.936404,-6.943598]]]}},
-{"type":"Feature","id":"05","properties":{"name":"Lembursitu","density":106.92},"geometry":{"type":"Polygon","coordinates":[[[
+{"type":"Feature","id":"06","properties":{"name":"Lembursitu","density":106.92},"geometry":{"type":"Polygon","coordinates":[[[
 [106.920389,-6.945972],
 [106.920351,-6.958831],
 [106.920167,-6.959388],
@@ -266,7 +266,7 @@ var SukabumiKec = {"type":"FeatureCollection","features":[
 [106.911418,-6.951492],
 [106.912083,-6.952222],
 [106.918676,-6.945039]]]}},
-{"type":"Feature","id":"05","properties":{"name":"Cibeureum","density":106.96},"geometry":{"type":"Polygon","coordinates":[[[
+{"type":"Feature","id":"07","properties":{"name":"Cibeureum","density":106.96},"geometry":{"type":"Polygon","coordinates":[[[
 [106.957267,-6.92421],
 [106.958936,-6.928534],
 [106.958483,-6.930091],
