@@ -17,7 +17,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Gunungpuyuh",
-        "padat": 98.34
+        "padat": 98.34,
+        "luas": 5.15
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73,7 +74,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Cikole",
-        "padat": 106.17
+        "padat": 106.17,
+        "luas": 6.22
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -130,7 +132,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Lembursitu",
-        "padat": 40.53
+        "padat": 40.53,
+        "luas": 10.69
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -220,7 +223,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Baros",
-        "padat": 71.88
+        "padat": 71.88,
+        "luas": 5.58
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -307,7 +311,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Citamiang",
-        "padat": 138.66
+        "padat": 138.66,
+        "luas": 4.01
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -351,7 +356,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Cibeureum",
-        "padat": 50.86
+        "padat": 50.86,
+        "luas": 9.12
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -425,7 +431,8 @@
         "province": "Jawa Barat",
         "regency": "Sukabumi",
         "district": "Warudoyong",
-        "padat": 81.45
+        "padat": 81.45,
+        "luas": 7.56
       },
       "geometry": {
         "type": "MultiPolygon",
