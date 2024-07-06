@@ -1,0 +1,1 @@
+This GeoJSON source for Kota Sukabumi originates from the Ina-Geoportal (https://tanahair.indonesia.go.id/) website. It has been carefully modified for visualization purposes only and does not represent the exact administrative boundaries of each district.
